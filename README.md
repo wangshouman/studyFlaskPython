@@ -1,2 +1,3 @@
 完全学习项目,在别人的基础可能拓展功能点，
-使用：python flask mysql  redis 或者其他可能用到功能
+使用：python flask mysql  redis 或者其他可能用到功能,
+计划是: 接入第三方登录， 微信登陆，异步功能

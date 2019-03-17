@@ -47,3 +47,4 @@ def setup_log(config_name):
     file_log_hanlder.setFormatter(formatter)
     # 为全局的日志工具对象(flask app使用的) 添加日志记录器
     logging.getLogger().addFilter(file_log_hanlder)
+
